@@ -21,7 +21,7 @@ window.onload = function() {
    'Là một thằng ất ơ nào đấy thích chơi game, xem phim và gặp gỡ bạn bè',
    'Nhắn với tôi khi bro thấy cần.<br> Hoặc có thể tìm đến tôi ở <a href="https://www.facebook.com/nguyen.khag.3990/">đây</a>, hoặc thằng <a href="https://www.facebook.com/phamkhangbm/">nô lệ của tôi</a>.<br>Hoặc mấy cái link trông thú vị này đây',
    '<a target="_blank" href="https://discord.gg/AaXa9Gk87U">Discord</a><br><a target="_blank" href="https://open.spotify.com/user/nmvlhweqe2o65pyucv2eytb31">Spotify</a><br><a target="_blank" href="https://steamcommunity.com/id/KhangBommie/">Steam</a><br><a target="_blank" href="https://www.youtube.com/channel/UCDfCOrEtaNnmFneDdYSD_Aw">Youtube</a><br><a target="_blank" href="https://i.pinimg.com/originals/e1/c7/1b/e1c71b2d78221e38b3cac554412b6ef9.jpg">Nhân vật tôi thích</a>',getCurrentTime(),
-   'Code được viết bởi <a href="https://www.facebook.com/phamkhangbm/">Tui</a>'
+   'Code được viết bởi <a href="https://www.facebook.com/phamkhangbm/">Phạm Gia Khang</a>'
   ]
 
   var getFontSize = function() {
