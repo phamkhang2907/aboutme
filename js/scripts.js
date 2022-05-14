@@ -22,12 +22,11 @@ window.onload = function() {
   }
 
   var messages = [
-   'Hello anh bạn 👋',
-   'Tôi là Khang hay còn gọi là Hana',
-   'Là một thằng ất ơ nào đấy thích chơi game,xem phim và gặp gỡ bạn bè',
-   'Gọi cho tôi khi nào bạn thấy cần.<br> Hoặc có thể tìm đến tôi ở <a href="https://www.facebook.com/nguyen.khag.3990/">đây</a>, hoặc thằng <a href="https://www.facebook.com/phamkhangbm/">nô lệ của tôi</a>.<br>Hoặc mấy cái link trông thú vị này đây',
-   '<a target="_blank" href="https://discord.gg/AaXa9Gk87U">Discord</a><br><a target="_blank" href="https://open.spotify.com/user/nmvlhweqe2o65pyucv2eytb31">Spotify</a><br><a target="_blank" href="https://steamcommunity.com/id/KhangBommie/">Steam ID</a><br><a target="_blank" href="https://www.youtube.com/channel/UCDfCOrEtaNnmFneDdYSD_Aw">Youtube</a><br><a target="_blank" href="https://i.pinimg.com/originals/e1/c7/1b/e1c71b2d78221e38b3cac554412b6ef9.jpg">Nhân vật tôi yêu thích</a>',getCurrentTime(),
-   'Code được viết bởi <a href="https://www.facebook.com/phamkhangbm/">Phạm Gia Khang</a>'   
+    'Hey there 👋',
+    'I\'m Julian',
+    'I design and code things on the web',
+    'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:hello@julian.gr">hello@julian.gr</a>',
+    '<a target="_blank" href="https://twitter.com/juliangarnier">twitter.com/juliangarnier</a><br><a target="_blank" href="https://codepen.io/juliangarnier">codepen.io/juliangarnier</a><br><a target="_blank" href="https://github.com/juliangarnier">github.com/juliangarnier</a>',
     getCurrentTime(),
     '👀 J.'
   ]
@@ -171,5 +170,3 @@ window.onload = function() {
   }
 
   sendMessages();
-
-}
